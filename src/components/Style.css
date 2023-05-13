@@ -1,0 +1,91 @@
+body{
+    background: url("../img/background\ for\ chat.jpg");
+    background-size:100%;
+    background-position:top;
+    background: cover;
+    text-align: left;
+    direction: rtl;
+}
+
+.card{
+    height: 64vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+
+.login{
+    background-color: #FFC312 !important;
+    color: black !important;
+    width: 8.5vw !important;
+    margin-left: 9vw !important;
+    height: 6vh;
+}
+
+.loginHome{
+  background-color: #FFC312 !important;
+  color: black !important;
+  width: 8.5vw !important;
+  /* margin-left: 9vw !important; */
+  height: 6vh;
+  border-radius: 10px;
+}
+
+.loginHome:hover{
+    background-color: antiquewhite !important;
+}
+
+/* #star-six {
+    width:0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    position: relative;
+  }
+  #star-six:after {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid red;
+    position: absolute;
+    content: "";
+    top: 30px;
+    left: -50px;
+  } */
+
+  .enter{
+    border-radius: 20%;
+    border-color: black;
+    border-width: 4px;
+    border-style: dashed;
+    /* border-style:double; */
+    /* border-style:solid; */
+    height: 50vh;
+    width: 55vw;
+  }
+
+  h1{
+    text-shadow:-2px 0 black,0 2px black,2px 0 black,0 -2px black;
+    color: #FFC312;
+    font-size: 8vh;
+  }
+
+  .h2{
+    text-shadow:-2px 0 black,0 2px black,2px 0 black,0 -2px black;
+    color: #FFC312;
+    font-size: 4vh;
+  }
+
+  .sendR{
+    height: 5.5vh;
+    width: 10vw;
+    border-radius: 10px;
+    color: brown;
+    background-color: #FFC312;
+    font-size: medium;
+  }
+
+
